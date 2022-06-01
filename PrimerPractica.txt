@@ -1,0 +1,3 @@
+Este es el primer archivo de git escritorio
+Se da inicio a cargar un repositorio
+Saludos
