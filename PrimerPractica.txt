@@ -1,3 +1,4 @@
-Este es el primer archivo de git escritorio
-Se da inicio a cargar un repositorio
+Este es el primer archivo de git escritorio.
+Ahora lo que estamos es simulando cambios en el archivo.
+Ya lo que hago es guardar cambios.
 Saludos
